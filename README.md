@@ -22,7 +22,7 @@ After preparing, now you can challenge yourself to do it.
 
 Start by coding simple, like recreating the example code you were given. Strip it to the bare minimum so you get the feel of applying what you learned.
 
-Slowly scale the difficulty of your exercises. Add more arguments, features, and overall add more complexity to your work. Do it one by one, and make sure you understand the process you are doing.
+Slowly scale the difficulty of your exercises. Add more arguments, features, and overall add more complexity to your work. Do it one by one, and make sure you understand the process you are doing to envelop your codsing skills.
 
 ### To conclude
-Studying CS is a journey, one tedious journey, but with practice you can learn to be better at CS. Happy coding!
+Studying CS is a journey, one tedious journey. But with practice you can learn to be better at CS. Happy coding!
